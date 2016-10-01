@@ -266,7 +266,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 810px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -287,16 +287,16 @@ Full-Width Styles
 }
 
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(top, #373737, #212121);
+  background: rgb(15, 157, 88);
+  background: -moz-linear-gradient(top, rgb(15, 157, 88), rgb(15, 157, 88));
+  background: -webkit-linear-gradient(top, rgb(15, 157, 88), rgb(15, 157, 88));
+  background: -ms-linear-gradient(top, rgb(15, 157, 88), rgb(15, 157, 88));
+  background: -o-linear-gradient(top, rgb(15, 157, 88), rgb(15, 157, 88));
+  background: linear-gradient(top, rgb(15, 157, 88), rgb(15, 157, 88));
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 10px;
 }
 
 #project_title {
@@ -365,7 +365,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-  background: #212121;
+  background: rgb(15, 157, 88);
 }
 
 
